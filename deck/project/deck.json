@@ -1,0 +1,20 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-11T08:35:14Z"},
+  "lists": "css",
+  "title": "River, Pool and Beach",
+  "order": ["cover", "why-we-care", "why-it-matters", "question", "topic-class", "topic-gender", "topic-pride", "topic-race", "method", "finding-a", "finding-b", "answer", "close", "references"],
+  "sections": {
+    "s1": {"description": "The hook, why we care, and why river, pool and beach matter now.", "start": "cover"},
+    "s2": {"description": "Our research question, definition, hunch and four topics.", "start": "question"},
+    "s3": {"description": "What the literature says on each of the four topics, across the three sports.", "start": "topic-class"},
+    "s4": {"description": "Our two secondary-data analyses and what they found.", "start": "method"},
+    "s5": {"description": "Answering the question and closing.", "start": "answer"},
+    "s6": {"description": "References, on screen during questions.", "start": "references"}
+  },
+  "faces": {
+    "fraunces": {"family": "Fraunces", "href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400..700;1,400..700&display=swap"},
+    "public-sans": {"family": "Public Sans", "href": "https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&display=swap"}
+  },
+  "designSystems": []
+}
